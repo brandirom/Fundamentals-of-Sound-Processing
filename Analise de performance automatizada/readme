@@ -1,0 +1,4 @@
+Forma automatizada de extração das curvas de tempo de diferentes interpretações da mesma musica.
+O primeiro passo é ter o arquivo MIDI base, 
+Using the code provided from https://github.com/andrewchenk to convert a MIDI file to CSV,
+and then adjusting them to the standards of the libfmp CSV reader.
